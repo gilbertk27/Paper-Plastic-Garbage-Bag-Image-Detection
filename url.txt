@@ -1,0 +1,5 @@
+Deployment:
+https://huggingface.co/spaces/xyncz/paper-plastic-garbage-bag-detection
+
+Model:
+https://drive.google.com/drive/folders/1MPwrZP0PqK58tklWD_sfyPxFmvPTotTq?usp=sharing

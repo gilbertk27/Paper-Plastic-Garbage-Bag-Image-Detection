@@ -1,0 +1,10 @@
+streamlit
+pandas
+seaborn
+matplotlib
+numpy
+plotly
+Pillow
+PIL
+pickle
+tensorflow
